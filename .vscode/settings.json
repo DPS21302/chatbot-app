@@ -1,0 +1,4 @@
+{
+    "file-tree-generator.includeFileContent": true,
+    "file-tree-generator.useGitignore": true
+}
